@@ -10,7 +10,6 @@
 
   "biome.biomesoplenty.aspen_glade": "白杨林间空地",
   "biome.biomesoplenty.auroral_garden": "极光花园",
-  "biome.biomesoplenty.bamboo_grove": "竹木树林",
   "biome.biomesoplenty.bayou": "长沼",
   "biome.biomesoplenty.bog": "泥潭",
   "biome.biomesoplenty.cherry_blossom_grove": "樱花树林",
@@ -85,6 +84,8 @@
   "item.biomesoplenty.cherry_chest_boat": "樱桃木运输船",
   "item.biomesoplenty.dead_boat": "垂死木木船",
   "item.biomesoplenty.dead_chest_boat": "垂死木运输船",
+  "item.biomesoplenty.empyreal_boat": "天界木船",
+  "item.biomesoplenty.empyreal_chest_boat": "天界木运输船",
   "item.biomesoplenty.fir_boat": "冷杉木船",
   "item.biomesoplenty.fir_chest_boat": "冷杉木运输船",
   "item.biomesoplenty.hellbark_boat": "地狱皮木船",
@@ -111,7 +112,9 @@
   "item.biomesoplenty.willow_chest_boat": "柳木运输船",
 
   "block.biomesoplenty.algal_end_stone": "藻类末地石"
+  "block.biomesoplenty.anomaly": "§kANOMALY",
   "block.biomesoplenty.barley": "大麦",
+  "block.biomesoplenty.barnacles": "藤壶",
   "block.biomesoplenty.black_sand": "黑沙",
   "block.biomesoplenty.black_sandstone": "黑砂岩",
   "block.biomesoplenty.black_sandstone_slab": "黑砂岩台阶",
@@ -122,9 +125,14 @@
   "block.biomesoplenty.blood": "血",
   "block.biomesoplenty.blue_hydrangea": "蓝绣球花",
   "block.biomesoplenty.bramble": "荆棘",
+  "block.biomesoplenty.bramble_leaves": "荆棘叶",
   "block.biomesoplenty.brimstone": "硫磺石",
+  "block.biomesoplenty.brimstone_bricks": "硫磺砖",
+  "block.biomesoplenty.brimstone_brick_slab": "硫磺砖台阶",
+  "block.biomesoplenty.brimstone_brick_stairs": "硫磺砖楼梯",
+  "block.biomesoplenty.brimstone_brick_wall": "硫磺砖墙",
   "block.biomesoplenty.brimstone_bud": "硫磺石芽",
-  "block.biomesoplenty.brimstone_cluster": "硫磺石簇",
+  "block.biomesoplenty.brimstone_cluster": "硫磺石簇"
   "block.biomesoplenty.brimstone_fumarole": "硫磺石喷气口",
   "block.biomesoplenty.burning_blossom": "火焰花",
   "block.biomesoplenty.bush": "灌木丛",
